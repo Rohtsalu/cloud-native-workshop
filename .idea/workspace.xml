@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a5b6db9-ee14-4995-a18c-5c1b0decafce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12f_app/12f_app.iml" afterPath="$PROJECT_DIR$/12f_app/12f_app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12f_app/pom.xml" afterPath="$PROJECT_DIR$/12f_app/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/StockItemRepository.java" afterPath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/StockItemRepository.java" />
     </list>
     <ignored path="$PROJECT_DIR$/12f_app/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12f_app/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="783">
@@ -56,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StockItemRepository.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StockItemRepository.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/StockItemRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="221">
+              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,6 +147,7 @@
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/manifest.yml" />
         <option value="$PROJECT_DIR$/12f_app/pom.xml" />
+        <option value="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/StockItemRepository.java" />
       </list>
     </option>
   </component>
@@ -567,16 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/StockItemRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/StockResource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -640,6 +629,16 @@
         <state relative-caret-position="783">
           <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/StockItemRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
