@@ -1,4 +1,4 @@
-package com.gitlab.rohtsalu.app;
+package com.gitlab.rohtsalu.app.respository;
 
 import com.gitlab.rohtsalu.app.domain.model.ItemType;
 import com.gitlab.rohtsalu.app.domain.model.StockItem;

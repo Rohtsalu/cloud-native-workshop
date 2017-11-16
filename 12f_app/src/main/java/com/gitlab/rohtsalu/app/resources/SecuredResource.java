@@ -1,4 +1,4 @@
-package com.gitlab.rohtsalu.app;
+package com.gitlab.rohtsalu.app.resources;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

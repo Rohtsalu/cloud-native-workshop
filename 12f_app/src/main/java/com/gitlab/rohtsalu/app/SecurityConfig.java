@@ -24,6 +24,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Override
     protected void configure(HttpSecurity http) throws Exception {
+        //http.csrf().ignoringAntMatchers("/items**");
         http
                 .authorizeRequests()
                 .antMatchers("/secured/admin").hasRole("ADMIN")
