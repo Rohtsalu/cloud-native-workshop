@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a5b6db9-ee14-4995-a18c-5c1b0decafce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/resources/ConfigResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/resources/StockItemResource.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/12f_app/manifest.yml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/LogoutResource.java" afterPath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/resources/LogoutResource.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/SecuredResource.java" afterPath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/resources/SecuredResource.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/StockItemRepository.java" afterPath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/respository/StockItemRepository.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/StockResource.java" afterPath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/resources/StockResource.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/SecurityConfig.java" afterPath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/SecurityConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/StockSpringBootStarter.java" afterPath="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/StockSpringBootStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest.yml" afterPath="$PROJECT_DIR$/manifest.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/12f_app/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConfigResource.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConfigResource.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/resources/ConfigResource.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -42,6 +32,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -150,7 +150,6 @@
         <option value="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/gunnar/app/domain/model/StockItem.java" />
         <option value="$PROJECT_DIR$/12f_app/.gitignore" />
         <option value="$PROJECT_DIR$/12f_app/.travis.yml" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/StockItemRepository.java" />
         <option value="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/LogoutResource.java" />
         <option value="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/SecuredResource.java" />
@@ -166,6 +165,7 @@
         <option value="$PROJECT_DIR$/manifest.yml" />
         <option value="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/resources/StockResource.java" />
         <option value="$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -705,13 +705,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12f_app/.travis.yml" />
     <entry file="file://$PROJECT_DIR$/12f_app/src/main/resources/V1.0.0__create_stock_table.sql" />
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/repository.java" />
     <entry file="file://$PROJECT_DIR$/12f_app/src/main/java/com/gitlab/rohtsalu/app/respository/StockItemRepository.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -811,6 +804,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
