@@ -1,5 +1,5 @@
 applications:
-- name: rohtsalu2
+- name: rohtsalu3
   path: 12f_app/target/12f_app-1.0-SNAPSHOT.jar
   memory: 1G
   services:

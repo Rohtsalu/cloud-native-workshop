@@ -7,8 +7,6 @@ deploy:
   username: rohtsalu@gmail.com
   api: https://api.run.pivotal.io
   organization: rohtsalu-org
-  space: staging
-  on:
-    branch: staging
+  space: development
   password:
     secure: Gz6XAblW6JMj5QajnUg+0yBS84ckd493QF3fvUMJt52Vrgg2eeRnCdiWwGGOsGJYSbLbJuApu+NrWJ6H1xAAOF88J4QQFh42Rf2XWDncfEZgpVA1qfqylYTVtNiUi++Onj3a42Ld9rjx0u6GlNE01QhHsENUY0CWpTFee/wi/Jy8PcdTsuZtd38UNdfC7tr6SC37GnsfJH/dvC2e/ZQOm+9e5E9K6f8ny6R3XVop6NS3uQVl54zvJ5eX6kYbGzV4kwWrUYfh3owG8Rk93GQJWLrdJRDcurRI4pSpcd11wotEWilsVYE4XKHfUFVrxojQZhG+52F1V4TerygWjTw51VUCMuqlekbhZNR626afTtYBmSwCmdfsTTkxFMozqk3vKzjzDhcvlBEc3oiML4HNRCrSh0wrDpCWl01t+cvvmMz33sQxbUPuiK/p9WzRuEw9OSqtFXR4+zFppbqi7AgJsXXjCfFYmAg137ft20NMwwIGPmZ+v9+5C9rBhDkg0TLxAB6M9lyezSkSQADJhhTNBxmvDcZ0K6Yh3eidn9gAPyd6NSe/wSwrpzh9iLGGtZ8FKEV/D9qTZigJinorsT293AoP046Xcz/bPiiS/gHgy8VZPkAj+xmkaeT+89/2l2YHPrLh+Z+0tshhcHgJ1IY8HMkUFvPpuMj2I9RyvC3veyo=
